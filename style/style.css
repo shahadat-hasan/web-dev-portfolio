@@ -114,3 +114,11 @@ main{
   text-align: center;
   margin-top: 130px;
 }
+.about-items{
+  display: flex;
+  justify-content: space-around;
+}
+.about-description{
+  font-weight: 600;
+  margin:20px;
+}
